@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qiziriq Turbo Taxi 1420</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .contact-info, .services {
+            margin-bottom: 20px;
+        }
+        .contact-info p, .services p {
+            font-size: 1.1em;
+            color: #555;
+        }
+        .cta {
+            text-align: center;
+        }
+        .cta a {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Qiziriq Turbo Taxi 1420</h1>
+</header>
+
+<div class="container">
+    <section class="contact-info">
+        <h2>Aloqa Ma'lumotlari</h2>
+        <p><strong>Telefon:</strong>1420</p>
+        <p><strong>Hudud:</strong> Qiziriq tumani ,Xorazm viloyati, Xonqa va Urganch shaharlarida xizmat ko'rsatamiz.</p>
+        <p><strong>Manzil:</strong> Xonqa, Qiziriq tumani va Urganch shaharlaridagi ofislarimizda bizni topishingiz mumkin.</p>
+    </section>
+
+    <section class="services">
+        <h2>Xizmatlarimiz</h2>
+        <p>A va B nuqtalar orasida aniq narxlar bilan tez va ishonchli taksi xizmatlari.</p>
+        <p>Ilova orqali oson to'lov imkoniyati mavjud.</p>
+    </section>
+
+    <section class="cta">
+        <p>Tez orada manzilga yetib borishni xohlaysizmi?</p>
+        <a href="tel:1420">1420 raqamiga qo'ng'iroq qiling</a>
+    </section>
+</div>
+
+</body>
+</html>
